@@ -23,3 +23,9 @@ streamlit run app.py
 Explore Recommendations: Open the URL in your web browser and input your movie preferences to receive instant recommendations for five related movies.
 
 Enhance your movie discovery experience with this Movie Recommendation System, combining the power of Streamlit and personalized algorithms to cater to diverse user tastes.
+
+Live Demo
+
+
+![143416246-4bc98d07-12fa-404a-a98c-228eaaa6ef5c](https://github.com/Shashwat-23/Movie_Recommendation_System/assets/131687188/b1783e29-cc5b-4cc0-b158-51d65e08c34a)
+
